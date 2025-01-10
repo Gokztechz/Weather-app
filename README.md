@@ -1,4 +1,5 @@
-# Weather Application Project (Weather App 2.O)
+# Weather Application Project 
+# know your temperature
 
 🌤️ **Weather Application Project** 🌤️
 
